@@ -54,7 +54,7 @@
 ├── Configs/ # BankDetails (БИК, лицензия, BIN'ы, коды валют)</br>
 ├── Constants/ # ErrorCodes, MetadataKeys </br>
 ├── DataAnnotations/  # Кастомные атрибуты (Name, Surname, CardNumber, ...) </br>
-├── Models/ # Hasher (PBKDF2), Encryptor (AES-256-GCM) </br>
+├── Models/ </br>
 │├── DTOs/ # ClientDTO, AccountDTO, CardDTO, TransactionDTO </br>
 │├── Requests/ # AddClientRequest, SendToAccountRequest, ... </br>
 │└── Responses/ # BaseResponse, SuccessResponse, ErrorResponse </br>

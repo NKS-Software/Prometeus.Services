@@ -2,8 +2,8 @@
 using Prometeus.Core.Data.Entities;
 using Prometeus.Core.Data.Repositories;
 using Prometeus.Core.Generators;
+using Prometeus.Core.Models;
 using Prometeus.Services.Configs;
-using Prometeus.Services.Constants;
 using Prometeus.Services.Models.DTOs;
 using Prometeus.Services.Models.Requests;
 using Prometeus.Services.Models.Responses;

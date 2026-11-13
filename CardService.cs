@@ -2,12 +2,12 @@
 using Prometeus.Core.Data.Entities;
 using Prometeus.Core.Data.Repositories;
 using Prometeus.Core.Generators;
+using Prometeus.Core.Models;
 using Prometeus.Core.Storage;
 using Prometeus.Core.Utils;
 using Prometeus.Services.Configs;
 using Prometeus.Services.Models.DTOs;
 using Prometeus.Services.Models.Requests;
-using Prometeus.Services.Models.Responses;
 using TimeMachine.Core;
 
 namespace Prometeus.Services

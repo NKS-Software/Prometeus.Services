@@ -52,12 +52,11 @@
 ## 🏗️ Архитектура
 
 ├── Configs/ # BankDetails (БИК, лицензия, BIN'ы, коды валют)</br>
-├── Constants/ # ErrorCodes, MetadataKeys </br>
 ├── DataAnnotations/  # Кастомные атрибуты (Name, Surname, CardNumber, ...) </br>
 ├── Models/ </br>
 │├── DTOs/ # ClientDTO, AccountDTO, CardDTO, TransactionDTO </br>
 │├── Requests/ # AddClientRequest, SendToAccountRequest, ... </br>
-│└── Responses/ # BaseResponse, SuccessResponse, ErrorResponse </br>
+│└── Responses/ # AddClientResponse
 ├── AccountService.cs # Сервис управления счетами </br>
 ├── CardService.cs # Сервис управления картами </br>
 ├── ClientService.cs # Сервис управления клиентами </br>

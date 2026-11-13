@@ -1,4 +1,5 @@
-﻿using Prometeus.Services.Models.DTOs;
+﻿using Prometeus.Core.Models;
+using Prometeus.Services.Models.DTOs;
 
 namespace Prometeus.Services.Models.Responses;
 
